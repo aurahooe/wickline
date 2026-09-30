@@ -1,2 +1,3 @@
-# wickline
-Wickline — a quiet hourly press. Notes people leave; one featured each hour.
+# Wickline
+
+A quiet hourly press. Sign in, leave notes, mark them public for the wall. Each hour a note is featured on the front.
